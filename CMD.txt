@@ -1,0 +1,24 @@
+diskpart
+list disk
+select disk 0
+list partition
+clean
+type clean and press Enter. The drive's partition, data, and signature is now removed
+
+Key finder - wmic path softwarelicensingservice get OA3xOriginalProductKey
+
+
+net user administrator /random
+net user administrator * - make  password
+
+Border98 - Music
+
+Clear the OneDrive cache by following these steps:
+
+   d. Right-click on the OneDrive icon again and select "Close OneDrive".
+
+   e. Press the Windows key + R to open the Run dialog box.
+
+   f. Type in "%localappdata%\Microsoft\OneDrive\onedrive.exe /reset" (without the quotes) and press Enter.
+
+   g. OneDrive will restart and you will be prompted to sign in again.
